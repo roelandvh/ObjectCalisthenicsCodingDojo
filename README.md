@@ -10,6 +10,6 @@ The current code base is in dutch, but will probably be fairly easy to use if yo
 * ScorePuntVoor = ScorePointFor
 
 Implementations
-===============
+---------------
 It would be cool if we could provide a list of working implementations, so if you have one, please add it to this list (via pull request).
 * First ones coming after 25th of june 2014
