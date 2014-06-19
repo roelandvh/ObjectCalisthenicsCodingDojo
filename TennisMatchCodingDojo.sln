@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisMatchCodingDojo.Tests", "TennisMatch.Tests\TennisMatchCodingDojo.Tests.csproj", "{B4444C61-09C2-4115-B311-3BEDDE69274A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisMatchCodingDojo", "TennisMatchCodingDojo\TennisMatchCodingDojo.csproj", "{1964130B-038C-4520-9498-E31F06C18785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4444C61-09C2-4115-B311-3BEDDE69274A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4444C61-09C2-4115-B311-3BEDDE69274A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4444C61-09C2-4115-B311-3BEDDE69274A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4444C61-09C2-4115-B311-3BEDDE69274A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1964130B-038C-4520-9498-E31F06C18785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1964130B-038C-4520-9498-E31F06C18785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1964130B-038C-4520-9498-E31F06C18785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1964130B-038C-4520-9498-E31F06C18785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
