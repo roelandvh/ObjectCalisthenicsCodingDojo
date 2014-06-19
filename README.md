@@ -5,9 +5,9 @@ This repo contains the tests we use to guide a coding dojo we're holding at Infi
 To actually do the dojo, first read this http://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf. Then in TDD style complete a tennis game which can do scoring within a game (so it can count points within a game, and the total number of games). To help get you started, we already provided some tests in TennisMatchCodingDojo.Tests\Tests.cs. You can use those to guide your TDD effort, or you can think up the tests yourself and use our tests as acceptance tests. For the actual coding dojo we're holding, implementing deuce is optional (so the first player to score on 40 40 wins the game).
 
 The current code base is in dutch, but will probably be fairly easy to use if you use the following translations (these are the words used in the public API):
-Speler = Player
-BerekenScore = CalculateScore
-ScorePuntVoor = ScorePointFor
+* Speler = Player
+* BerekenScore = CalculateScore
+* ScorePuntVoor = ScorePointFor
 
 Implementations
 ===============
