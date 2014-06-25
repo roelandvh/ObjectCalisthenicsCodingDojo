@@ -39,6 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameScore.cs" />
+    <Compile Include="Punten\Advantage.cs" />
+    <Compile Include="Punten\DerdePunt.cs" />
+    <Compile Include="Punten\EerstePunt.cs" />
+    <Compile Include="Punten\Punt.cs" />
+    <Compile Include="Punten\StartPunt.cs" />
+    <Compile Include="Punten\TweedePunt.cs" />
+    <Compile Include="Speler.cs" />
+    <Compile Include="SpelerScore.cs" />
     <Compile Include="TennisMatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
