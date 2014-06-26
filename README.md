@@ -13,5 +13,4 @@ The current code base is in Dutch, but will probably be fairly easy to use if yo
 
 Implementations
 ---------------
-It would be cool if we could provide a list of working implementations, so if you have one, please add it to this list (via pull request).
-* First ones coming after 25th of june 2014
+This repository is a fork of the [original repository by Freek Paans](https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo). This particular implementation was done during the aforementioned coding by Daniel Bronk and Roeland van Houte. Other implementations well be linked from the original repository.
