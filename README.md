@@ -13,4 +13,4 @@ The current code base is in Dutch, but will probably be fairly easy to use if yo
 
 Implementations
 ---------------
-This repository is a fork of the [original repository by Freek Paans](https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo). This particular implementation was done during the aforementioned coding by Daniel Bronk and Roeland van Houte. Other implementations well be linked from the original repository.
+This repository is a fork of the [original repository by Freek Paans](https://github.com/FreekPaans/ObjectCalisthenicsCodingDojo). This particular implementation was done during the aforementioned coding dojo by Daniel Bronk and Roeland van Houte. Other implementations well be linked from the original repository.
